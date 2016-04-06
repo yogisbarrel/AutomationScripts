@@ -1,0 +1,1 @@
+﻿gci C:\Users\John\Downloads | ForEach-Object {Move-Item $_.FullName F:\Downloads}
